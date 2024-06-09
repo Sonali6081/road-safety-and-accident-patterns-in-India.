@@ -13,7 +13,7 @@ containing sheets, dashboards, stories
                         https://drive.google.com/file/d/1kKO9R2jeszVkjFpZTjFZIcmXomnoJi2A/view?usp=sharing
                         
 Documentation link:
-                        https://drive.google.com/file/d/1IgpR5NqS8K-f5MPlANj0fQI-M6RPgD7A/view?usp=sharing
+                      https://drive.google.com/file/d/1gzaQCfVRZv77eCIIMAsokWLJVd3gTGaA/view?usp=sharing
 
 Demonstration video link:
 
