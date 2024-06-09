@@ -1,4 +1,4 @@
-                               QLIK PROJECT:ROAD SAFETY AND ACCIDENT PATTERNS
+QLIK PROJECT:ROAD SAFETY AND ACCIDENT PATTERNS
 The primary goal of this project is to use the power of Qlik Sense to create visuals
 and analyses of road growth in India as well as accident trends. Description of accidents ,
 its ways, reasons affecting, factors involved, etc expressed in form of sheets, stories. 
@@ -19,5 +19,3 @@ Demonstration video link:
                      https://drive.google.com/file/d/1liF0OVkg3rJndkKnRjUYEtCobot-KUZ5/view?usp=sharing
                      https://drive.google.com/file/d/1yyutncQGavB5Emk5M3sHqycEGbEnbYnH/view?usp=sharing
                      
-Qlik app link
-                    https://s1ysoe51l4pb8k6.sg.qlikcloud.com/sense/app/e67a0f90-1bf6-4daa-9414-75abd8a16b0a
