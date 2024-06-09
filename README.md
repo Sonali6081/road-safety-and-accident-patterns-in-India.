@@ -16,4 +16,8 @@ Documentation link:
                       https://drive.google.com/file/d/1gzaQCfVRZv77eCIIMAsokWLJVd3gTGaA/view?usp=sharing
 
 Demonstration video link:
-
+                     https://drive.google.com/file/d/1liF0OVkg3rJndkKnRjUYEtCobot-KUZ5/view?usp=sharing
+                     https://drive.google.com/file/d/1yyutncQGavB5Emk5M3sHqycEGbEnbYnH/view?usp=sharing
+                     
+Qlik app link
+                    https://s1ysoe51l4pb8k6.sg.qlikcloud.com/sense/app/e67a0f90-1bf6-4daa-9414-75abd8a16b0a
